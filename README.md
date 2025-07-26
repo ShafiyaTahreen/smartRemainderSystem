@@ -1,1 +1,3 @@
-# smartRemainderSystem
+# SmartRemainderSystem
+The Smart Reminder System with LED Cube Attraction by integrating a 3x3x3 LED cube with Nexys 4 DDR FPGA technology. At its core, the system employs Verilog HDL to implement real-time clock logic and hardcoded reminder schedules. Key hardware components include the Nexys 4 DDR FPGA for processing,
+a CD4066 IC analog switch to power the LED cube, and transistors for efficient current control, and a manual stop button allows users to acknowledge and deactivate reminders. Future enhancements may include UART-based dynamic scheduling, Bluetooth connectivity for remote control, and integration with IoT platforms.
